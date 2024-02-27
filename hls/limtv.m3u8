@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:4
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,CODECS="mp4a.40.2,avc1.640020"
-https://stream.kirachan.tech/memfs/99bd0142-a411-4048-88cf-75eaa43610b7.m3u8
+https://stream.kirachan.tech:443/memfs/99bd0142-a411-4048-88cf-75eaa43610b7_output_0.m3u8
