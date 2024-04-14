@@ -1,45 +1,46 @@
-{ 
-"radio": [
-{ 
-  "radio_genre": "Invasiva Media", 
-  "radio_url": "https://fm.restream593.online:8020/radio.mp3", 
-  "radio_image_url": "https://i.ibb.co/5Wx0T2j/logocuadro.png", 
-  "background_image_url": "https://i.ibb.co/5hTwV4C/fondoapp.png",	 
-  "blur_radio_background": "false", 
-  "song_metadata": "true", 
-  "image_album_art": "true",	 
-  "image_album_art_dynamic_background": "false",	 
-  "auto_play": "true",	 
-  "chatbox_url": "#" 
-  } 
-],
-"panel": [
- {
-  "fondo_url": "#00000000",
-  "about_color": "#00000000",
-  "statusBar_color": "#5665EF",
-  "navigationBar_color": "#5665EF",
-  "logo_url": "https://i.ibb.co/5Wx0T2j/logocuadro.png",
-  "menulogo_url": "https://i.ibb.co/0sM02pk/locutores.png",
-  "radio_name": "Invasiva Media", 
-  "dominio_url": "https://google.com",
-  "copyright_url": "Invasiva Media © 2024",
-  "web_url": "https://google.com",
-  "whatsapp_url": "",
-  "call_url": "",
-  "fanpage_url": "invasivamedia",
-  "tiktok_url": "https://www.invasivamedia.com/p/tv.html",
-  "twitter_url": "https://suenaenvivo3.teamsoftdigitalmundial.com/chat/" 
- } 
-], 
-"settings": [ 
- { 
-  "app_status": "2.3.1", 
-  "onesignal_app_id": "00000000-0000-0000-0000-000000000000", 
-  "fcm_notification_topic": "your_single_radio_topic",
-  "privacy_policy_url": "https://sites.google.com/view/poltica-de-privicidad/p%C3%A1gina-principal",	
-  "more_apps_url": "https://play.google.com/store/apps/dev?id=6788668719470215209",	
-  "redirect_url": "" 
-  } 
- ]
+class Radio {
+ public $radio_genre; //String
+ public $radio_url; //String
+ public $radio_image_url; //String
+ public $background_image_url; //String
+ public $blur_radio_background; //String
+ public $song_metadata; //String
+ public $image_album_art; //String
+ public $image_album_art_dynamic_background; //String
+ public $auto_play; //String
+ public $chatbox_url; //String
+
+}
+class Panel {
+ public $fondo_url; //Date
+ public $about_color; //Date
+ public $statusBar_color; //String
+ public $navigationBar_color; //String
+ public $logo_url; //String
+ public $menulogo_url; //String
+ public $radio_name; //String
+ public $dominio_url; //String
+ public $copyright_url; //String
+ public $web_url; //String
+ public $whatsapp_url; //String
+ public $call_url; //String
+ public $fanpage_url; //String
+ public $tiktok_url; //String
+ public $twitter_url; //String
+
+}
+class Settings {
+ public $app_status; //String
+ public $onesignal_app_id; //String
+ public $fcm_notification_topic; //String
+ public $privacy_policy_url; //String
+ public $more_apps_url; //String
+ public $redirect_url; //String
+
+}
+class Application {
+ public $radio; //array( Radio )
+ public $panel; //array( Panel )
+ public $settings; //array( Settings )
+
 }
