@@ -1,6 +1,6 @@
 
 
-{ "radio": [ { "radio_genre": "Suena en Vivo 3", "radio_url": "https://streaming01.radiosenlinea.com.ar:8138", "radio_image_url": "https://i.ibb.co/5Wx0T2j/logocuadro.png", "background_image_url": "https://i.ibb.co/5hTwV4C/fondoapp.png",	 "blur_radio_background": "false", "song_metadata": "true", "image_album_art": "true",	 "image_album_art_dynamic_background": "false",	 "auto_play": "true",	 "chatbox_url": "#" } ],
+{ "radio": [ { "radio_genre": "Invasiva Media", "radio_url": "https://fm.restream593.online:8020/radio.mp3", "radio_image_url": "https://i.ibb.co/5Wx0T2j/logocuadro.png", "background_image_url": "https://i.ibb.co/5hTwV4C/fondoapp.png",	 "blur_radio_background": "false", "song_metadata": "true", "image_album_art": "true",	 "image_album_art_dynamic_background": "false",	 "auto_play": "true",	 "chatbox_url": "#" } ],
 "panel": [ { "fondo_url": "#00000000", "about_color": "#00000000", "statusBar_color": "#5665EF", "navigationBar_color": "#5665EF",
 "logo_url": "https://i.ibb.co/5Wx0T2j/logocuadro.png", "menulogo_url": "https://i.ibb.co/0sM02pk/locutores.png",
 "radio_name": "Suena en Vivo 3", "dominio_url": "https://google.com", "copyright_url": "Copyright © 2024 Team Soft Digital Todos los derechos reservados.",
