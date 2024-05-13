@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1598446,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
-https://5790d294af2dc.streamlock.net:443/limtv/limtv/chunklist.m3u8
+https://ssh101.bozztv.com/ssh101/invasivamedia/chunks.m3u8
