@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=128000,RESOLUTION=Null,CODEC="audio/mpeg"
+#EXT-X-STREAM-INF:BANDWIDTH=128000,CODECS="audio/mpeg"
 https://fm.restream593.online:8020/radio.mp3
-
