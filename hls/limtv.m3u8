@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
-https://panel-inv.netlify.app/.netlify/functions/generate_m3u8?canal=heinow
+https://app.oneplayer.zip/oneplayer/scripts/pluto.php?id=5dcb62e63d4d8f0009f36881&.m3u8
